@@ -1,6 +1,3 @@
-<!--
-**umuutkocaman/umuutkocaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I'm Umut 👋
 
 ## I'm a Management Information Systems Student.
