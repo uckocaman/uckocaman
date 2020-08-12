@@ -5,7 +5,6 @@
 - 🔭 I want to work on data analysis or business intelligence.
 - 🌱 I’m currently learning advanced T-Sql
 - 👯 I’m looking to collaborate on data analysis projects. 
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: umutcan_kocaman@hotmail.com
 - ⚡ Fun fact: I like woodworking as a hobby.
 
