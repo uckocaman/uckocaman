@@ -1,6 +1,6 @@
 ### Hi there, I'm Umut 👋
 
-## I'm a Management Information Systems Student.
+## I'm Management Information Systems Student.
 
 - 🌱 I’m currently learning advanced Sql
 - 👯 I’m looking to collaborate on data analysis projects. 
