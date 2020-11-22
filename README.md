@@ -2,7 +2,7 @@
 
 ## I'm a Management Information Systems Student.
 
-- 🔭 Intern at Ereteam Analytics.
+- 🔭 MIS Student at Istınye University.
 - 🌱 I’m currently learning advanced Sql
 - 👯 I’m looking to collaborate on data analysis projects. 
 - 📫 How to reach me: umutcan_kocaman@hotmail.com
