@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning advanced Sql
 - 👯 I’m looking to collaborate on data analysis projects. 
-- 📫 How to reach me: umutcan_kocaman@hotmail.com
+- 📫 How to reach me: uckocaman@outlook.com
 - ⚡ Fun fact: I like woodworking as a hobby.
 
 ### Connect with me:
