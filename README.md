@@ -1,10 +1,11 @@
 ## Hi, I'm Umut 👋
 
-- 🔭 I’m currently working on Python, PL/SQL & MSSQL
-- 🌱 I’m currently learning advanced Sql
+I live in Istanbul, Turkey and I am a 4th grade MIS student. I am currently working as a Business Intelligence and Data Warehouse Developer Intern at Datum Consulting.
+
+I'm mostly interested in Big Data, Business Intelligence and Data Warehouse. I love writing code with Python, PL/SQL and T-SQL. As a hobby, I'm interested in carpentry. I love carving wood and making furniture items.
+
 - 👯 I’m looking to collaborate on data analysis projects. 
 - 📫 How to reach me: uckocaman@outlook.com
-- ⚡ Fun fact: I like woodworking as a hobby.
 
 ### Connect with me:
 [<img align="left" alt="umut_c4n | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/uckocaman)
