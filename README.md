@@ -1,8 +1,8 @@
 ## Hi, I'm Umut 👋
 
-I live in Istanbul, Turkey and I am currently working as a Data Management Consultant at Datum Consulting.
+I'm Umut, I'm currently working as a Data Management Consultant at Datum Consulting. I work on our clients' Data Warehouse development projects. In addition, I develop scripts to automate repetitive processes of our customers.
 
-I'm mostly interested in Big Data, Business Intelligence and Data Warehouse. I love writing code with Python, PL/SQL and T-SQL. As a hobby, I'm interested in carpentry. I love carving wood and making furniture items.
+In addition to these, I attend trainings and develop projects to improve myself in the fields of Cloud and Data Engineering. I am interested in woodworking as a hobby.
 
 - 👯 I’m looking to collaborate on data analysis projects. 
 - 📫 How to reach me: umutkocaman@pm.me
