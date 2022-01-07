@@ -1,6 +1,6 @@
 ## Hi, I'm Umut 👋
 
-I'm Umut, I'm currently working as a Data Management Consultant at Datum Consulting. I work on our clients' Data Warehouse development projects. In addition, I develop scripts to automate repetitive processes of our customers.
+I'm Umut, I'm currently working as a Data Warehouse Analyst at Trendyol Tech. I help bridge the gap between business units and complex large datasets.
 
 In addition to these, I attend trainings and develop projects to improve myself in the fields of Cloud and Data Engineering. I am interested in woodworking as a hobby.
 
