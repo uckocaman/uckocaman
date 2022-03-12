@@ -4,7 +4,6 @@ I'm Umut, I'm currently working as a Data Warehouse Analyst at Trendyol Tech. I 
 
 In addition to these, I attend trainings and develop projects to improve myself in the fields of Cloud and Data Engineering. I am interested in woodworking as a hobby.
 
-- 👯 I’m looking to collaborate on data analysis projects. 
 - 📫 How to reach me: umutkocaman@pm.me
 
 ### Connect with me:
